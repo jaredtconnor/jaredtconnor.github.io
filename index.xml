@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minimal</title>
+    <title>Jared Connor </title>
     <link>https://jaredtconnor.github.io/</link>
-    <description>Recent content on Minimal</description>
+    <description>Recent content on Jared Connor </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredtconnor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First of Many</title>
+      <link>https://jaredtconnor.github.io/article/first-of-many/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/article/first-of-many/</guid>
+      <description>Well well well&amp;hellip;.. Fancy meeting your here!</description>
+    </item>
+    
+    <item>
+      <title>Stock Price Scaper</title>
+      <link>https://jaredtconnor.github.io/project/stock-price-scaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/project/stock-price-scaper/</guid>
+      <description>Well well well&amp;hellip; Nice to meet you here.</description>
+    </item>
     
   </channel>
 </rss>
