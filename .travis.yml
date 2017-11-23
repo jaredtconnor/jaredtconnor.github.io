@@ -10,7 +10,7 @@ install:
 
 # Build the website
 script:
-  - binaries/hugo --theme=minimal
+  - binaries/hugo 
 
 # Deploy to GitHub pages
 deploy:
