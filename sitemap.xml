@@ -19,6 +19,12 @@
   </url>
   
   <url>
+    <loc>https://jaredtconnor.github.io/tags/intro/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -35,6 +41,7 @@
   
   <url>
     <loc>https://jaredtconnor.github.io/tags/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
