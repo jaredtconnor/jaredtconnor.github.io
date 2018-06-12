@@ -4,7 +4,7 @@
          
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Intro</title>
+        <title>Intro: Classification</title>
         <style>
 
     html body {
@@ -60,9 +60,6 @@
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.41" />
         
-        <link href="https://jaredtconnor.github.io/tags/intro/index.xml" rel="alternate" type="application/rss+xml" title="Jared Connor " />
-        <link href="https://jaredtconnor.github.io/tags/intro/index.xml" rel="feed" type="application/rss+xml" title="Jared Connor " />
-        
         
         
         
@@ -85,7 +82,7 @@
 
                 <div class="navbar-header">
 
-                    <a class="navbar-brand visible-xs" href="#">Intro</a>
+                    <a class="navbar-brand visible-xs" href="#">Intro: Classification</a>
 
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
@@ -136,9 +133,7 @@
 
 <main>
 
-    <h2>Intro</h2>
-
-     <div class="item">
+    <div class="item">
 
     
     
@@ -147,16 +142,31 @@
     
     
 
-    <h4><a href="/article/first-of-many/">First of Many</a></h4>
-    <h5>November 23, 2017</h5>
-     <kbd class="item-tag">intro</kbd> 
+    <h4><a href="/article/classification_intro/">Intro: Classification</a></h4>
+    <h5>December 19, 2017</h5>
+     <kbd class="item-tag">statistics</kbd>  <kbd class="item-tag">machine_learning</kbd>  <kbd class="item-tag">classification</kbd> 
 
 </div>
- 
+
+
+    <br> <div class="text-justify"><p>Suppose you are a doctor. Someone rolls into your operating room. Say that the nurse who was carrying their packet of info got sidetracked by the latest episode of Game of Thrones. Again, to further simplify our reality, say they are green in the face. From your substantive experience as a doctor you know their condition could be caused by exactly three things: a stroke, a drug overdose,
+or cancer.</p>
+
+<p>How would you make a correct prediction of the diagnosis? This actually is a great case to utilize <a href="https://en.wikipedia.org/wiki/Statistical_classification">classification</a>. This method of statistical prediction allows us to infer differences in qualitative or <a href="https://onlinecourses.science.psu.edu/stat501/node/301">categorical</a> predictors.</p>
+
+<p>One might ask, <strong>&ldquo;Well why can&rsquo;t we just use linear regressions?&rdquo;</strong>. The reason why we can&rsquo;t utilize Ordinary Least Squares in this case is because of the categorical nature of the predictors. The probability of selecting one of the three diagnoses is not equal nor could it be interpreted via a classical regression. We could list the order of conditions by drug overdose, cancer, and a stroke, and it would completely change the interpretation of the regression results. Because of this, we have to utilize classification instead. <em>(Binary variables can be utilized in linear regressions though, don&rsquo;t forget that)</em>.</p>
+
+<p>Over the next couple of articles, I&rsquo;m going to present some examples from <a href="http://www-bcf.usc.edu/~gareth/ISL/">Introduction to Statistical Learning</a> that run through a number of classification techniques. Specifically, I&rsquo;m going to run through <em>logistic regressions</em>, <em>linear discriminant analysis</em>, and <em>K-nearest neighbors</em>. Each of these are going to be utilizing their examples of credit defaults, but I&rsquo;ll attempt to spin in some other examples as well.</p>
+</div>
+
+    
+    
+
+    
+
+    
 
 </main>
-
-
 
         <footer>
 

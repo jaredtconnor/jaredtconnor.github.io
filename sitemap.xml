@@ -3,18 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaredtconnor.github.io/reading/predict-economic-indicators-with-openstreetmap/</loc>
+    <lastmod>2018-06-11T21:02:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaredtconnor.github.io/article/classification_intro/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/article/first-of-many/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jaredtconnor.github.io/article/</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jaredtconnor.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredtconnor.github.io/tags/classification/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,7 +42,13 @@
   
   <url>
     <loc>https://jaredtconnor.github.io/</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-11T21:02:12-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredtconnor.github.io/tags/machine_learning/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,12 +58,24 @@
   </url>
   
   <url>
+    <loc>https://jaredtconnor.github.io/reading/</loc>
+    <lastmod>2018-06-11T21:02:12-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredtconnor.github.io/tags/statistics/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/project/stock-price-scaper/</loc>
   </url>
   
   <url>
     <loc>https://jaredtconnor.github.io/tags/</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

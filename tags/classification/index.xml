@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification on Jared Connor </title>
+    <link>https://jaredtconnor.github.io/tags/classification/</link>
+    <description>Recent content in Classification on Jared Connor </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jaredtconnor.github.io/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro: Classification</title>
+      <link>https://jaredtconnor.github.io/article/classification_intro/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/article/classification_intro/</guid>
+      <description>Suppose you are a doctor. Someone rolls into your operating room. Say that the nurse who was carrying their packet of info got sidetracked by the latest episode of Game of Thrones. Again, to further simplify our reality, say they are green in the face. From your substantive experience as a doctor you know their condition could be caused by exactly three things: a stroke, a drug overdose, or cancer.</description>
+    </item>
+    
+  </channel>
+</rss>

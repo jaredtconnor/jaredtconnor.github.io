@@ -1,0 +1,13 @@
+---
+title: "Predict Economics Indicators with OpenStreetMap"
+date: 2018-06-11T21:02:12-07:00
+draft: false
+---
+
+This was a really cool article regarding the use of [OpenStreeMap](https://www.openstreetmap.org) to predict the economic potential
+and output of a country. Specifically he is using publically labeled tags and indicators
+of schools, universities, lamp posts, and post offices to see how much production and
+economic activity is coming from a specific region!
+
+This could be of great use for economic research in countries where reliable data is a problem
+or to view competative economies from a bird's eye view (_no pun intended_)
