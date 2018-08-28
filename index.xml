@@ -6,19 +6,37 @@
     <description>Recent content on Jared Connor </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jun 2018 21:02:12 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredtconnor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Interactive Exploration of Dead End Careers</title>
+      <link>https://jaredtconnor.github.io/reading/interactive-exploration-of-dead-end-careers/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/reading/interactive-exploration-of-dead-end-careers/</guid>
+      <description>I read this wonderful analysis, originally posted by Zippia)on the dynamics of salaries across age and labor demographics, via the PUMS (Public Use Microdata Sample) for you acronym junkies out there. While they attempted to view so called dead end jobs, which they roughly define as jobs that lack little wage growth later in their lives, the analysis illustrates a developing trend - the gradual widening of the high skill/high wage labor and low skill/low wage/service oriented labor.</description>
+    </item>
+    
+    <item>
+      <title>Readings_for_6 20 2018</title>
+      <link>https://jaredtconnor.github.io/reading/readings-for-6-20-2018/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/reading/readings-for-6-20-2018/</guid>
+      <description>The US Startup is Disappearing and Thats Bad for the Economy This was recently published from Quartz depicting the decline in companies with the age of 0-2 years old, originally published by the BLS.</description>
+    </item>
+    
+    <item>
       <title>Predict Economics Indicators with OpenStreetMap</title>
       <link>https://jaredtconnor.github.io/reading/predict-economic-indicators-with-openstreetmap/</link>
-      <pubDate>Mon, 11 Jun 2018 21:02:12 -0700</pubDate>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jaredtconnor.github.io/reading/predict-economic-indicators-with-openstreetmap/</guid>
-      <description>This was a really cool article regarding the use of OpenStreeMap to predict the economic potential and output of a country. Specifically he is using publically labeled tags and indicators of schools, universities, lamp posts, and post offices to see how much production and economic activity is coming from a specific region!
-This could be of great use for economic research in countries where reliable data is a problem or to view competative economies from a bird&amp;rsquo;s eye view (no pun intended)</description>
+      <description>This was a really cool article regarding the use of OpenStreeMap to predict the economic potential and output of a country. Specifically he is using publicly labeled tags and indicators of schools, universities, lamp posts, and post offices to see how much production and economic activity is coming from a specific region!
+This could be of great use for economic research in countries where reliable data is a problem or to view competitive economies from a bird&amp;rsquo;s eye view (no pun intended).</description>
     </item>
     
     <item>

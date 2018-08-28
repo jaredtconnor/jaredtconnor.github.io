@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startups on Jared Connor </title>
+    <link>https://jaredtconnor.github.io/tags/startups/</link>
+    <description>Recent content in Startups on Jared Connor </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jaredtconnor.github.io/tags/startups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Readings_for_6 20 2018</title>
+      <link>https://jaredtconnor.github.io/reading/readings-for-6-20-2018/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/reading/readings-for-6-20-2018/</guid>
+      <description>The US Startup is Disappearing and Thats Bad for the Economy This was recently published from Quartz depicting the decline in companies with the age of 0-2 years old, originally published by the BLS.</description>
+    </item>
+    
+  </channel>
+</rss>
