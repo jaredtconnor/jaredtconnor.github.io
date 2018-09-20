@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Jared Connor </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Sep 2018 20:59:37 -0700</lastBuildDate>
     
 	<atom:link href="https://jaredtconnor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Choices</title>
+      <link>https://jaredtconnor.github.io/tags/choices/</link>
+      <pubDate>Wed, 19 Sep 2018 20:59:37 -0700</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/tags/choices/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classification</title>
@@ -66,6 +75,15 @@
     </item>
     
     <item>
+      <title>Happiness</title>
+      <link>https://jaredtconnor.github.io/tags/happiness/</link>
+      <pubDate>Wed, 19 Sep 2018 20:59:37 -0700</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/tags/happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intro</title>
       <link>https://jaredtconnor.github.io/tags/intro/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
@@ -89,6 +107,15 @@
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jaredtconnor.github.io/tags/machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychology</title>
+      <link>https://jaredtconnor.github.io/tags/psychology/</link>
+      <pubDate>Wed, 19 Sep 2018 20:59:37 -0700</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/tags/psychology/</guid>
       <description></description>
     </item>
     

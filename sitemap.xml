@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaredtconnor.github.io/reading/heads-or-tails-experiment/</loc>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/reading/interactive-exploration-of-dead-end-careers/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -35,6 +40,12 @@
   
   <url>
     <loc>https://jaredtconnor.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredtconnor.github.io/tags/choices/</loc>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,6 +86,12 @@
   </url>
   
   <url>
+    <loc>https://jaredtconnor.github.io/tags/happiness/</loc>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/tags/intro/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -82,7 +99,7 @@
   
   <url>
     <loc>https://jaredtconnor.github.io/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -104,8 +121,14 @@
   </url>
   
   <url>
+    <loc>https://jaredtconnor.github.io/tags/psychology/</loc>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/reading/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,7 +156,7 @@
   
   <url>
     <loc>https://jaredtconnor.github.io/tags/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-19T20:59:37-07:00</lastmod>
     <priority>0</priority>
   </url>
   
