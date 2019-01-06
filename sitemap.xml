@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaredtconnor.github.io/article/object_oriented_programming/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/reading/conversations-with-tyler-robin-wiblin-from-80000-hours/</loc>
     <lastmod>2018-12-05T19:04:32-08:00</lastmod>
   </url>
@@ -33,18 +38,13 @@
   </url>
   
   <url>
-    <loc>https://jaredtconnor.github.io/article/classification_intro/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jaredtconnor.github.io/article/first-of-many/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jaredtconnor.github.io/article/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,12 +56,6 @@
   <url>
     <loc>https://jaredtconnor.github.io/tags/choices/</loc>
     <lastmod>2018-09-19T20:59:37-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jaredtconnor.github.io/tags/classification/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +109,7 @@
   
   <url>
     <loc>https://jaredtconnor.github.io/</loc>
-    <lastmod>2018-12-05T19:04:32-08:00</lastmod>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -132,12 +126,6 @@
   </url>
   
   <url>
-    <loc>https://jaredtconnor.github.io/tags/machine_learning/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jaredtconnor.github.io/tags/mental_health/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -150,6 +138,12 @@
   </url>
   
   <url>
+    <loc>https://jaredtconnor.github.io/tags/programming/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jaredtconnor.github.io/project/</loc>
     <priority>0</priority>
   </url>
@@ -157,6 +151,12 @@
   <url>
     <loc>https://jaredtconnor.github.io/tags/psychology/</loc>
     <lastmod>2018-09-19T20:59:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredtconnor.github.io/tags/python/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -175,12 +175,6 @@
   <url>
     <loc>https://jaredtconnor.github.io/tags/startups/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jaredtconnor.github.io/tags/statistics/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

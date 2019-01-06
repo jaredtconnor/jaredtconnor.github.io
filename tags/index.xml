@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Classification</title>
-      <link>https://jaredtconnor.github.io/tags/classification/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaredtconnor.github.io/tags/classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data_analysis</title>
       <link>https://jaredtconnor.github.io/tags/data_analysis/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
@@ -120,15 +111,6 @@
     </item>
     
     <item>
-      <title>Machine_learning</title>
-      <link>https://jaredtconnor.github.io/tags/machine_learning/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaredtconnor.github.io/tags/machine_learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mental_health</title>
       <link>https://jaredtconnor.github.io/tags/mental_health/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
@@ -147,11 +129,29 @@
     </item>
     
     <item>
+      <title>Programming</title>
+      <link>https://jaredtconnor.github.io/tags/programming/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Psychology</title>
       <link>https://jaredtconnor.github.io/tags/psychology/</link>
       <pubDate>Wed, 19 Sep 2018 20:59:37 -0700</pubDate>
       
       <guid>https://jaredtconnor.github.io/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jaredtconnor.github.io/tags/python/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/tags/python/</guid>
       <description></description>
     </item>
     
@@ -170,15 +170,6 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jaredtconnor.github.io/tags/startups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://jaredtconnor.github.io/tags/statistics/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaredtconnor.github.io/tags/statistics/</guid>
       <description></description>
     </item>
     

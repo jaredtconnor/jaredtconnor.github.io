@@ -6,10 +6,19 @@
     <description>Recent content on Jared Connor </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Dec 2018 19:04:32 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredtconnor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding Object Oriented Programming</title>
+      <link>https://jaredtconnor.github.io/article/object_oriented_programming/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredtconnor.github.io/article/object_oriented_programming/</guid>
+      <description>Classes and Programming Paradigms for Python Programming paradigms, at least in my case of teaching myself programming, was something that I didn&amp;rsquo;t stress but should have. While programming requires the use of writing code in a specific language&amp;rsquo;s syntax, its more so a manner to distill a problem into a procedure to attempt to arrive at a solution. All that said, these paradigms are different ways to solve problems.</description>
+    </item>
     
     <item>
       <title>Conversations with Tyler: Robin Wiblin from 80000 Hours</title>
@@ -67,15 +76,6 @@ A short passage from the article:
       <guid>https://jaredtconnor.github.io/reading/predict-economic-indicators-with-openstreetmap/</guid>
       <description>This was a really cool article regarding the use of OpenStreeMap to predict the economic potential and output of a country. Specifically he is using publicly labeled tags and indicators of schools, universities, lamp posts, and post offices to see how much production and economic activity is coming from a specific region!
 This could be of great use for economic research in countries where reliable data is a problem or to view competitive economies from a bird&amp;rsquo;s eye view (no pun intended).</description>
-    </item>
-    
-    <item>
-      <title>Intro: Classification</title>
-      <link>https://jaredtconnor.github.io/article/classification_intro/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaredtconnor.github.io/article/classification_intro/</guid>
-      <description>Suppose you are a doctor. Someone rolls into your operating room. Say that the nurse who was carrying their packet of info got sidetracked by the latest episode of Game of Thrones. Again, to further simplify our reality, say they are green in the face. From your substantive experience as a doctor you know their condition could be caused by exactly three things: a stroke, a drug overdose, or cancer.</description>
     </item>
     
     <item>
